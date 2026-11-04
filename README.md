@@ -81,7 +81,7 @@ A full-stack accommodation listing platform inspired by Airbnb.
 
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary.
 
-[GitHub Repository](https://github.com/kajalshakya/WanderLust.git)
+[GitHub Repository](https://github.com/kajalshakya/WanderLust)
 
 ---
 
@@ -97,10 +97,9 @@ A Python-based voice assistant that processes voice commands and provides useful
 
 **Tech Stack:** Python, SpeechRecognition, Groq AI, OpenWeather API, GNews API, MySQL, SQLite.
 
-[GitHub Repository](https://github.com/kajalshakya/voice_assistant.git)
+[GitHub Repository](https://github.com/kajalshakya/voice_assistant)
 
 ---
-
 
 ### 3. Postly – Social Media CRUD Application
 
@@ -112,10 +111,9 @@ A web application for creating and managing posts.
 
 **Tech Stack:** Node.js, Express.js, EJS, HTML, CSS, JavaScript.
 
-[GitHub Repository](https://github.com/kajalshakya/postly.git)
+[GitHub Repository](https://github.com/kajalshakya/postly)
 
 ---
-
 
 ## Other Projects
 
@@ -129,7 +127,7 @@ A WhatsApp-inspired chat application developed to explore backend development an
 
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, CSS, JavaScript.
 
-[GitHub Repository](https://github.com/kajalshakya/mini-whatapp.git)
+[GitHub Repository](https://github.com/kajalshakya/mini-whatapp)
 
 ---
 
@@ -139,7 +137,7 @@ A Spotify-inspired music player interface developed using frontend technologies.
 
 **Tech Stack:** HTML, CSS, JavaScript.
 
-[GitHub Repository](https://github.com/kajalshakya/spotify-web-player.git)
+[GitHub Repository](https://github.com/kajalshakya/spotify-web-player)
 
 ---
 
@@ -149,7 +147,7 @@ An interactive memory-based game that challenges users to remember and repeat se
 
 **Tech Stack:** HTML, CSS, JavaScript.
 
-[GitHub Repository](https://github.com/kajalshakya/Simon-Says-Game.git)
+[GitHub Repository](https://github.com/kajalshakya/Simon-Says-Game)
 
 ---
 
@@ -159,16 +157,23 @@ Practicing Data Structures and Algorithms to improve problem-solving skills and 
 
 **Language:** C++.
 
-[GitHub Profile](https://github.com/kajalshakya/DSA.git)
+[DSA Repository](https://github.com/kajalshakya/DSA)
 
 ---
 
 ## GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajalshakya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalshakya&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+---
+
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajalshakya&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalshakya&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=kajalshakya&theme=github-dark-blue&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -186,9 +191,7 @@ Practicing Data Structures and Algorithms to strengthen problem-solving and codi
 I am interested in connecting with developers, learning new technologies, and exploring opportunities in software development.
 
 - **Email:** [kajal.kshakya@gmail.com](mailto:kajal.kshakya@gmail.com)
-- **GitHub:** [kajalshakya](https://github.com/kajalshakya)
 - **LinkedIn:** [kajalshakya](https://www.linkedin.com/in/kajalshakya/)
-
 
 ---
 
