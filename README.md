@@ -181,14 +181,6 @@ Practicing Data Structures and Algorithms to strengthen problem-solving and codi
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalshakya&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
----
-
 ## Connect With Me
 
 I am interested in connecting with developers, learning new technologies, and exploring opportunities in software development.
