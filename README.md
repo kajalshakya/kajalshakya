@@ -4,15 +4,6 @@
 
 Welcome to my GitHub profile! I am passionate about software development, problem-solving, and building applications that solve real-world problems.
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1aaKIdJu83gW5TsDjodzCd-looG9ZdwYr/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kajalshakya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -193,6 +184,7 @@ I am interested in connecting with developers, learning new technologies, and ex
 
 - **Email:** [kajal.kshakya@gmail.com](mailto:kajal.kshakya@gmail.com)
 - **LinkedIn:** [kajalshakya](https://www.linkedin.com/in/kajalshakya/)
+- **Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1aaKIdJu83gW5TsDjodzCd-looG9ZdwYr/view?usp=sharing)
 
 ---
 
