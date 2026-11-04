@@ -81,7 +81,7 @@ A full-stack accommodation listing platform inspired by Airbnb.
 
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary.
 
-[GitHub Repository](https://github.com/kajalshakya/WanderLust)
+[GitHub Repository](https://github.com/kajalshakya/WanderLust.git)
 
 ---
 
@@ -97,6 +97,8 @@ A Python-based voice assistant that processes voice commands and provides useful
 
 **Tech Stack:** Python, SpeechRecognition, Groq AI, OpenWeather API, GNews API, MySQL, SQLite.
 
+[GitHub Repository](https://github.com/kajalshakya/voice_assistant.git)
+
 ---
 
 
@@ -110,7 +112,7 @@ A web application for creating and managing posts.
 
 **Tech Stack:** Node.js, Express.js, EJS, HTML, CSS, JavaScript.
 
-[GitHub Repository](https://github.com/kajalshakya/postly)
+[GitHub Repository](https://github.com/kajalshakya/postly.git)
 
 ---
 
@@ -127,7 +129,7 @@ A WhatsApp-inspired chat application developed to explore backend development an
 
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, CSS, JavaScript.
 
-[GitHub Repository](ADD_YOUR_MINI_WHATSAPP_REPOSITORY_LINK)
+[GitHub Repository](https://github.com/kajalshakya/mini-whatapp.git)
 
 ---
 
@@ -137,7 +139,7 @@ A Spotify-inspired music player interface developed using frontend technologies.
 
 **Tech Stack:** HTML, CSS, JavaScript.
 
-[GitHub Repository](https://github.com/kajalshakya/spotify-web-player)
+[GitHub Repository](https://github.com/kajalshakya/spotify-web-player.git)
 
 ---
 
@@ -147,7 +149,7 @@ An interactive memory-based game that challenges users to remember and repeat se
 
 **Tech Stack:** HTML, CSS, JavaScript.
 
-[GitHub Repository](ADD_YOUR_SIMON_SAYS_REPOSITORY_LINK)
+[GitHub Repository](https://github.com/kajalshakya/Simon-Says-Game.git)
 
 ---
 
@@ -157,7 +159,7 @@ Practicing Data Structures and Algorithms to improve problem-solving skills and 
 
 **Language:** C++.
 
-[GitHub Profile](https://github.com/kajalshakya)
+[GitHub Profile](https://github.com/kajalshakya/DSA.git)
 
 ---
 
@@ -191,9 +193,10 @@ Practicing Data Structures and Algorithms to strengthen problem-solving and codi
 
 I am interested in connecting with developers, learning new technologies, and exploring opportunities in software development.
 
+- **Email:** [kajal.kshakya@gmail.com](mailto:kajal.kshakya@gmail.com)
 - **GitHub:** [kajalshakya](https://github.com/kajalshakya)
 - **LinkedIn:** [kajalshakya](https://www.linkedin.com/in/kajalshakya/)
-- **LeetCode:** [kajalshakya](https://leetcode.com/u/kajalshakya/)
+
 
 ---
 
