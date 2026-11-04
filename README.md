@@ -4,6 +4,15 @@
 
 Welcome to my GitHub profile! I am passionate about software development, problem-solving, and building applications that solve real-world problems.
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1aaKIdJu83gW5TsDjodzCd-looG9ZdwYr/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kajalshakya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -161,7 +170,6 @@ Practicing Data Structures and Algorithms to improve problem-solving skills and 
 
 ---
 
-
 ## GitHub Statistics
 
 <p align="center">
@@ -170,9 +178,6 @@ Practicing Data Structures and Algorithms to improve problem-solving skills and 
 </p>
 
 ---
-
-
-
 
 ## LeetCode Profile
 
