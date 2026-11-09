@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I am passionate about software development, proble
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### Backend Development
@@ -87,15 +86,16 @@ A full-stack accommodation listing platform inspired by Airbnb.
 
 ### 2. Voice-Based Personal Assistant
 
-A Python-based voice assistant that processes voice commands and provides useful information.
+Developed an AI-powered voice assistant using Python that processes voice commands, automates tasks, and provides real-time information.
 
-- Implemented voice recognition and speech-to-text.
-- Integrated weather updates and news retrieval.
-- Added alarm functionality.
-- Integrated AI-powered conversational queries.
-- Connected external APIs.
+- Integrated Groq AI (GPT-OSS-120B) for intelligent conversational responses.
+- Implemented voice recognition, weather updates, news retrieval, and alarm management.
+- Developed a Flask REST API to connect the Python backend with a React frontend.
+- Integrated MySQL and SQLite for activity logging.
+- Implemented multithreading and synchronization for efficient command execution.
 
-**Tech Stack:** Python, SpeechRecognition, Groq AI, OpenWeather API, GNews API, MySQL, SQLite.
+**Tech Stack:** Python, Flask, React.js, JavaScript, SpeechRecognition, Groq AI, OpenWeather API, GNews API, MySQL, SQLite, REST API.
+
 
 [GitHub Repository](https://github.com/kajalshakya/voice_assistant)
 
@@ -184,7 +184,7 @@ I am interested in connecting with developers, learning new technologies, and ex
 
 - **Email:** [kajal.kshakya@gmail.com](mailto:kajal.kshakya@gmail.com)
 - **LinkedIn:** [kajalshakya](https://www.linkedin.com/in/kajalshakya/)
-- **Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1aaKIdJu83gW5TsDjodzCd-looG9ZdwYr/view?usp=sharing)
+- **Resume:** [View My Resume (PDF)](https://drive.google.com/file/d/1iBBXuZCeELhrwnJqe78dpCGvXmluVBZQ/view?usp=drive_link)
 
 ---
 
