@@ -177,15 +177,6 @@ Practicing Data Structures and Algorithms to improve problem-solving skills and 
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kajalshakya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kajalshakya&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-</p>
-
----
-
 ## LeetCode Profile
 
 Practicing Data Structures and Algorithms to strengthen problem-solving and coding skills.
