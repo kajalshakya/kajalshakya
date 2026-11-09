@@ -115,9 +115,25 @@ A web application for creating and managing posts.
 
 ---
 
+### 4. Weatherly – Weather Forecast App
+
+A responsive weather application built using React.js that provides real-time weather information for any city.
+
+- Implemented city-based weather search functionality.
+- Displays temperature, humidity, and weather conditions.
+- Integrated OpenWeather API for real-time weather data.
+- Added error handling for invalid city searches and API failures.
+- Designed a responsive user interface using Material UI.
+
+**Tech Stack:** React.js, JavaScript, Material UI, CSS, OpenWeather API, Vite.
+
+[GitHub Repository](https://github.com/kajalshakya/Weatherly)
+
+---
+
 ## Other Projects
 
-### 4. Mini WhatsApp – Chat Application
+### 5. Mini WhatsApp – Chat Application
 
 A WhatsApp-inspired chat application developed to explore backend development and database operations.
 
@@ -131,7 +147,7 @@ A WhatsApp-inspired chat application developed to explore backend development an
 
 ---
 
-### 5. Spotify Web Player Clone
+### 6. Spotify Web Player Clone
 
 A Spotify-inspired music player interface developed using frontend technologies.
 
@@ -141,7 +157,7 @@ A Spotify-inspired music player interface developed using frontend technologies.
 
 ---
 
-### 6. Simon Says Game
+### 7. Simon Says Game
 
 An interactive memory-based game that challenges users to remember and repeat sequences.
 
@@ -151,7 +167,7 @@ An interactive memory-based game that challenges users to remember and repeat se
 
 ---
 
-### 7. Data Structures and Algorithms
+### 8. Data Structures and Algorithms
 
 Practicing Data Structures and Algorithms to improve problem-solving skills and programming fundamentals.
 
